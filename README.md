@@ -5,4 +5,5 @@ My passion lies in ensuring trustworthiness and explainability of AI models for 
 
 Links to where you can find me:  
 LinkedIn: https://linkedin.com/in/ignacy-stepka/  
-Personal Website: https://ignacystepka.com
+Personal Website: https://ignacystepka.com  
+Google Scholar: [(link)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=EEq1zd0AAAAJ)
